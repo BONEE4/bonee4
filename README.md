@@ -1,8 +1,4 @@
-# Opa! 👋
+![profile] ![languages]
 
-### Trabalhando no Eclipse 💁.
-
- * Servidor para suporte [AQUI!](https://discord.gg/KfbCKqd)
- * Convide o bot [AQUI](https://discord.com/api/oauth2/authorize?client_id=731185772551733340&permissions=3163136&scope=bot)
- 
-**Alguem esta lendo isso?**
+[profile]: https://github-readme-stats.vercel.app/api?username=BONEE4s&show_icons=true&theme=material-palenight
+[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=BONEE4&theme=material-palenight
