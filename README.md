@@ -21,12 +21,9 @@
 
 ### 🌙 Sobre mim
 
-```text
-Name     : BONEE
-Universe : Digital
-Status   : Always evolving
-Mission  : Turn ideas into reality
-```
+Entre código, ideias e projetos que ganham vida aos poucos.
+
+Sempre explorando algo novo. Sempre construindo algo meu.
 
 Sou alguém explorando o mundo da programação, construindo projetos próprios e aprendendo algo novo a cada etapa.
 
